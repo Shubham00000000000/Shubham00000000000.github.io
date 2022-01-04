@@ -1,0 +1,15 @@
+#sig {
+	text-align: center;
+	font-size: 40px;
+}
+body {
+	background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(0, 255, 252, 1) 0%, rgba(219, 178, 233, 1) 100%);
+}
+#all {
+	font-size: 30px;
+	text-align: center;
+}
+
+body::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
